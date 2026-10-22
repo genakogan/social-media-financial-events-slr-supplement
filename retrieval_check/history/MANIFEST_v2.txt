@@ -1,0 +1,13 @@
+Known-item retrieval check, version 2 - files fixed before the version-2 run
+written 2026-10-20T08:57:53
+
+8cdc1506909a4d8530e2438c0c5ff79af134e3e6caf11db44f1797ac8ff2fdbc  PROTOCOL_v2.md
+cb4572dc0bfde0bc0ab86a8e354b33508280381ba04e96a25c2bd073f1b0ebcc  run_v2.py
+
+addendum written 2026-10-20T09:11:07 (variant A)
+16137f9f049a522c3d87c3e3398399349801ad51030469260d21d2681db97d99  PROTOCOL_v2.md
+cd11a2ca649dc74aa3d673a5c92144e1526c3e885f53fe3c2ee16d8035003e2f  run_v2A.py
+
+addendum 2 written 2026-10-20T09:49:39 (variant E)
+2fa939b6ddebea0a2df5a1a470020eb4112e632f9ca286e64efff810cd163ba6  PROTOCOL_v2.md
+a60883cc56d8bc1e13ff57b5d17a409a12ab7cdeed3293f3ec1b1c63715c1d46  run_v2E.py

@@ -1,0 +1,83 @@
+bibkey,set,openalex_id,source_type,source,work_type,retrieved_final
+arnold2022attention,development,W3118192601,journal,Journal of Financial Economics,article,yes
+bellina2025language,development,W4415310342,repository,arXiv (Cornell University),preprint,yes
+budak2024misunderstanding,development,W4399366359,journal,Nature,article,yes
+butts2023mathematical,development,W4388048121,journal,Scientific Reports,article,yes
+chang2022systematic,development,W4312651142,journal,Procedia Computer Science,conference-paper,yes
+chen2024discovery,development,W4386875684,journal,Journal of the American Statistical Association,article,yes
+chuai2024did,development,W4404171602,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+ding2021quantifying,development,W3196388595,journal,Science China Information Sciences,article,yes
+el2023event,development,W4284883529,journal,Journal of International Business Studies,article,yes
+fan2026skeptik,development,W4414476222,journal,ACM Transactions on Interactive Intelligent Systems,article,yes
+ge2024novel,development,W4407432899,conference,China Automation Congress (CAC),conference-paper,yes
+gong2024causal,development,W4404650820,journal,ACM Computing Surveys,article,yes
+govers2025feeds,development,W4408449869,journal,ACM Transactions on Interactive Intelligent Systems,article,yes
+hasanov2024structural,development,W4401402098,journal,Journal of Applied Econometrics,article,yes
+impicciche2025comparing,development,W4405248842,journal,ACM Transactions on the Web,article,yes
+keasey2025impact,development,W4402517944,journal,European Financial Management,article,yes
+khan2024targets,development,W4396218543,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+kim2025news,development,W4416592915,journal,Journal of risk and financial management,article,yes
+kogan2023social,development,W3200102637,journal,European Finance Review,article,yes
+lee2025countering,development,W4406258040,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+leuz2026falls,development,W4416210187,journal,Management Science,article,yes
+li2025cryptocurrency,development,W4409174306,journal,Journal of Financial and Quantitative Analysis,article,yes
+loru2026compression,development,W4416841974,journal,ACM Transactions on Knowledge Discovery from Data,article,no
+lutz2024linguistic,development,W4396218134,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+mahmud2026detecting,development,W7130827924,journal,ACM Transactions on Social Computing,article,yes
+mucciante2024estimation,development,W4385782110,journal,Journal of Financial Econometrics,article,yes
+nystrom2022hawkes,development,W3186863058,journal,Journal of the Operational Research Society,article,yes
+ozcelik2025detecting,development,W4405566696,journal,ACM Transactions on Intelligent Systems and Technology,article,yes
+pal2025media,development,W4408684161,ebook platform,IGI Global eBooks,book-chapter,yes
+pastor2025influence,development,W4407719590,journal,IEEE Internet Computing,article,yes
+paul2023mathematical,development,W4407057928,book series,Springer proceedings in mathematics & statistics,conference-paper,yes
+pynnonen2022non,development,W4220719043,journal,Journal of risk and financial management,article,yes
+sahitaj2025hybrid,development,W4412944267,no source,,conference-paper,yes
+seetharam2024headlines,development,W4401637502,journal,International Journal of Information Management Data Insights,article,yes
+shahid2025one,development,W4410049549,journal,Proceedings of the ACM on Human-Computer Interaction,article,no
+tang2025breaking,development,W4414836461,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+tong2022assessing,development,W4296197040,journal,Finance research letters,article,yes
+tufchi2024transvae,development,W4392347598,journal,ACM Transactions on Asian and Low-Resource Language Information Processing,article,yes
+wang2022causal,development,W4280493991,journal,Economics Letters,article,yes
+wang2026rumor,development,W7131085584,journal,ACM Transactions on Internet Technology,article,yes
+yang2025llm,development,W4407369317,journal,ACM Transactions on Intelligent Systems and Technology,article,yes
+yu2025breaking,development,W4412827327,journal,ACM Transactions on Information Systems,article,yes
+zhang4450056integrated,development,W4376855031,repository,SSRN Electronic Journal,preprint,yes
+zhu2025volatility,development,W4399703612,journal,Computational Economics,article,yes
+amieur2025comparative,validation,W4415250186,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+arcuri2023does,validation,W4383955198,journal,Journal of Economics and Business,article,yes
+assaad2022survey,validation,W4214698730,journal,Journal of Artificial Intelligence Research,article,yes
+bhalla2025local,validation,W3216173699,journal,ACM Transactions on Intelligent Systems and Technology,article,yes
+bradley2024place,validation,W4390043602,journal,Review of Financial Studies,article,no
+cayuela2025influence,validation,,not indexed,,,no
+chen2022social,validation,W4200463617,journal,Journal of Information Security and Applications,article,yes
+cui2025toward,validation,W4415736465,no source,,conference-paper,yes
+escola2023falls,validation,W4294883912,journal,Personality and Individual Differences,article,yes
+evangelatos2025modeling,validation,W4412593918,journal,ACM Transactions on the Web,article,yes
+fan2024measuring,validation,W4402357837,repository,SSRN Electronic Journal,preprint,yes
+fawzi2024pinocchio,validation,W4396218575,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+gaillard2021countering,validation,W3182204087,journal,Frontiers in Communication,article,yes
+ghazouani2025virtual,validation,W4413466225,journal,Blockchain Research and Applications,article,yes
+goldsmith2025causal,validation,W7106255595,repository,arXiv (Cornell University),preprint,yes
+hrckova2025autonomation,validation,W4414032582,journal,ACM Journal on Responsible Computing,article,no
+huang2025hybrid,validation,W4413394554,no source,,conference-paper,yes
+ienca2023artificial,validation,W4381430332,journal,Topoi,article,yes
+jeon2024hearhere,validation,W4396230918,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+kumarsocial,validation,,not indexed,,,no
+la2023doge,validation,W3159176111,journal,ACM Transactions on Internet Technology,article,yes
+liu2023social,validation,W4318320749,journal,SAGE Open,article,yes
+liu2024exploring,validation,W4415256754,journal,Proceedings of the ACM on Human-Computer Interaction,article,no
+mridha2021comprehensive,validation,W3216370178,journal,IEEE Access,article,yes
+mugrabi2026financial,validation,W4414769417,journal,International Journal of Finance & Economics,article,yes
+nguyen2026permutation,validation,W7140172419,journal,Empirical Economics,article,yes
+nobre2022hierarchical,validation,W3203440807,journal,Information Processing & Management,article,yes
+roozenbeek2022technique,validation,W4280610708,journal,Royal Society Open Science,article,yes
+roy2024unveiling,validation,W4399205260,journal,Proceedings of the International AAAI Conference on Web and Social Media,conference-paper,no
+saadi2025enhancing,validation,W4411122931,journal,Engineering Technology & Applied Science Research,article,yes
+sadeghi2025causal,validation,W4404439782,journal,International Journal of Data Science and Analytics,article,yes
+sakib2025understanding,validation,W4415258878,journal,Proceedings of the ACM on Human-Computer Interaction,article,yes
+sharma2025novel,validation,W4409256702,journal,Digital Threats Research and Practice,article,yes
+smith2024unraveling,validation,W4388084625,journal,Current Psychology,article,no
+su2025emotionally,validation,W4415256889,journal,Proceedings of the ACM on Human-Computer Interaction,article,no
+sun2026inference,validation,W4408449336,journal,Communications in Statistics - Simulation and Computation,article,yes
+wang2025limited,validation,W4410833287,journal,PNAS Nexus,article,yes
+yang2025price,validation,W4400112346,journal,Financial Review,article,no

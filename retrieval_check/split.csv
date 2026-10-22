@@ -1,0 +1,83 @@
+bibkey,prisma_box,theme,set
+chen2024discovery,Causal Identification,Cross-Domain Events and Causality,development
+gong2024causal,Causal Identification,Cross-Domain Events and Causality,development
+seetharam2024headlines,Causal Identification,Cross-Domain Events and Causality,development
+tong2022assessing,Causal Identification,Cross-Domain Events and Causality,development
+butts2023mathematical,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,development
+ge2024novel,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,development
+paul2023mathematical,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,development
+mahmud2026detecting,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,development
+ozcelik2025detecting,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,development
+tufchi2024transvae,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,development
+yang2025llm,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,development
+fan2026skeptik,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,development
+lee2025countering,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,development
+sahitaj2025hybrid,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,development
+bellina2025language,Class 4 - Network Structure and Propagation Analysis,Social media analysis,development
+impicciche2025comparing,Class 4 - Network Structure and Propagation Analysis,Social media analysis,development
+loru2026compression,Class 4 - Network Structure and Propagation Analysis,Social media analysis,development
+wang2026rumor,Class 4 - Network Structure and Propagation Analysis,Social media analysis,development
+budak2024misunderstanding,Class 5 - Behavioural and Psychological Modelling,Social media analysis,development
+govers2025feeds,Class 5 - Behavioural and Psychological Modelling,Social media analysis,development
+khan2024targets,Class 5 - Behavioural and Psychological Modelling,Social media analysis,development
+lutz2024linguistic,Class 5 - Behavioural and Psychological Modelling,Social media analysis,development
+chuai2024did,Class 6 - Intervention and Inoculation Strategies,Social media analysis,development
+shahid2025one,Class 6 - Intervention and Inoculation Strategies,Social media analysis,development
+tang2025breaking,Class 6 - Intervention and Inoculation Strategies,Social media analysis,development
+yu2025breaking,Class 6 - Intervention and Inoculation Strategies,Social media analysis,development
+ding2021quantifying,Cross-Domain Challenges,Cross-Domain Events and Causality,development
+wang2022causal,Cross-Domain Challenges,Cross-Domain Events and Causality,development
+el2023event,F1 - Classical event-study econometrics,Financial market events,development
+pynnonen2022non,F1 - Classical event-study econometrics,Financial market events,development
+hasanov2024structural,"F2 - Volatility, risk, and structural change",Financial market events,development
+zhu2025volatility,"F2 - Volatility, risk, and structural change",Financial market events,development
+mucciante2024estimation,F3 - High-frequency and intraday market response,Financial market events,development
+nystrom2022hawkes,F3 - High-frequency and intraday market response,Financial market events,development
+arnold2022attention,F4 - Textual and attention-augmented asset pricing,Financial market events,development
+kim2025news,F4 - Textual and attention-augmented asset pricing,Financial market events,development
+keasey2025impact,F5 - Market manipulation and abusive trading detection,Financial market events,development
+kogan2023social,F5 - Market manipulation and abusive trading detection,Financial market events,development
+leuz2026falls,F5 - Market manipulation and abusive trading detection,Financial market events,development
+li2025cryptocurrency,F5 - Market manipulation and abusive trading detection,Financial market events,development
+chang2022systematic,Opinion Manipulation: Definition and Typologies,Social media analysis,development
+pal2025media,Opinion Manipulation: Definition and Typologies,Social media analysis,development
+pastor2025influence,Opinion Manipulation: Definition and Typologies,Social media analysis,development
+zhang4450056integrated,Opinion in Social Networks,Social media analysis,development
+assaad2022survey,Causal Identification,Cross-Domain Events and Causality,validation
+ghazouani2025virtual,Causal Identification,Cross-Domain Events and Causality,validation
+sadeghi2025causal,Causal Identification,Cross-Domain Events and Causality,validation
+bhalla2025local,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,validation
+evangelatos2025modeling,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,validation
+huang2025hybrid,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,validation
+mridha2021comprehensive,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,validation
+saadi2025enhancing,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,validation
+sharma2025novel,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,validation
+cui2025toward,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,validation
+hrckova2025autonomation,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,validation
+liu2024exploring,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,validation
+chen2022social,Class 4 - Network Structure and Propagation Analysis,Social media analysis,validation
+fawzi2024pinocchio,Class 4 - Network Structure and Propagation Analysis,Social media analysis,validation
+nobre2022hierarchical,Class 4 - Network Structure and Propagation Analysis,Social media analysis,validation
+amieur2025comparative,Class 5 - Behavioural and Psychological Modelling,Social media analysis,validation
+escola2023falls,Class 5 - Behavioural and Psychological Modelling,Social media analysis,validation
+sakib2025understanding,Class 5 - Behavioural and Psychological Modelling,Social media analysis,validation
+smith2024unraveling,Class 5 - Behavioural and Psychological Modelling,Social media analysis,validation
+jeon2024hearhere,Class 6 - Intervention and Inoculation Strategies,Social media analysis,validation
+roozenbeek2022technique,Class 6 - Intervention and Inoculation Strategies,Social media analysis,validation
+su2025emotionally,Class 6 - Intervention and Inoculation Strategies,Social media analysis,validation
+wang2025limited,Class 6 - Intervention and Inoculation Strategies,Social media analysis,validation
+arcuri2023does,Cross-Domain Challenges,Cross-Domain Events and Causality,validation
+fan2024measuring,Cross-Domain Challenges,Cross-Domain Events and Causality,validation
+goldsmith2025causal,F1 - Classical event-study econometrics,Financial market events,validation
+nguyen2026permutation,F1 - Classical event-study econometrics,Financial market events,validation
+mugrabi2026financial,"F2 - Volatility, risk, and structural change",Financial market events,validation
+sun2026inference,"F2 - Volatility, risk, and structural change",Financial market events,validation
+yang2025price,F3 - High-frequency and intraday market response,Financial market events,validation
+liu2023social,F4 - Textual and attention-augmented asset pricing,Financial market events,validation
+bradley2024place,F5 - Market manipulation and abusive trading detection,Financial market events,validation
+la2023doge,F5 - Market manipulation and abusive trading detection,Financial market events,validation
+roy2024unveiling,F5 - Market manipulation and abusive trading detection,Financial market events,validation
+cayuela2025influence,Opinion Manipulation: Definition and Typologies,Social media analysis,validation
+ienca2023artificial,Opinion Manipulation: Definition and Typologies,Social media analysis,validation
+kumarsocial,Opinion Manipulation: Definition and Typologies,Social media analysis,validation
+gaillard2021countering,Opinion in Social Networks,Social media analysis,validation

@@ -1,0 +1,82 @@
+{
+  "protocol": "PROTOCOL.md",
+  "query": "causal OR chamber OR chatbot OR cryptocurrency OR disinformation OR echo OR \"event studies\" OR fake OR \"financial market\" OR garch OR hawkes OR \"influence operations\" OR investor OR manipulation OR misinformation OR news OR \"online social networks\" OR opinion OR propaganda OR \"pump and dump\" OR reddit OR rumor OR sentiment OR \"social networks\" OR stock OR \"structural break\" OR twitter",
+  "query_sha256": "51377ba9737a1b12a8a0b8878bb0c5a27f32e47ad78dd6255a59cf54fb06a7f6",
+  "fields_kept": {
+    "17": {
+      "name": "Computer Science",
+      "development_studies": 3
+    },
+    "20": {
+      "name": "Economics, Econometrics and Finance",
+      "development_studies": 15
+    },
+    "33": {
+      "name": "Social Sciences",
+      "development_studies": 23
+    },
+    "31": {
+      "name": "Physics and Astronomy",
+      "development_studies": 2
+    },
+    "18": {
+      "name": "Decision Sciences",
+      "development_studies": 1
+    }
+  },
+  "filters": "from_publication_date:2020-01-01,to_publication_date:2026-12-31,type:!dissertation,type:!dataset,type:!paratext,type:!editorial,type:!letter,type:!erratum,type:!peer-review,type:!retraction,primary_topic.field.id:17|18|20|31|33",
+  "filters_sha256": "cb947be45310b2290c2ff90204c99b985363bf79b46772177172f3ec0d3ea073",
+  "run": "2026-10-20T14:00:25",
+  "records_term_query": 528902,
+  "records": 311556,
+  "records_not_tagged_english": 63578,
+  "results": {
+    "development_all": {
+      "retrieved": 42,
+      "n": 44,
+      "share": 0.955,
+      "ci95": [
+        0.849,
+        0.987
+      ]
+    },
+    "development_indexed": {
+      "retrieved": 42,
+      "n": 44,
+      "share": 0.955,
+      "ci95": [
+        0.849,
+        0.987
+      ]
+    },
+    "validation_all": {
+      "retrieved": 29,
+      "n": 38,
+      "share": 0.763,
+      "ci95": [
+        0.608,
+        0.87
+      ]
+    },
+    "validation_indexed": {
+      "retrieved": 29,
+      "n": 36,
+      "share": 0.806,
+      "ci95": [
+        0.65,
+        0.902
+      ]
+    }
+  },
+  "validation_missed": [
+    "hrckova2025autonomation (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)",
+    "liu2024exploring (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)",
+    "smith2024unraveling (Class 5 - Behavioural and Psychological Modelling; field: Social Sciences)",
+    "su2025emotionally (Class 6 - Intervention and Inoculation Strategies; field: Computer Science)",
+    "yang2025price (F3 - High-frequency and intraday market response; field: Economics, Econometrics and Finance)",
+    "bradley2024place (F5 - Market manipulation and abusive trading detection; field: Economics, Econometrics and Finance)",
+    "roy2024unveiling (F5 - Market manipulation and abusive trading detection; field: Computer Science)",
+    "cayuela2025influence (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex",
+    "kumarsocial (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex"
+  ]
+}

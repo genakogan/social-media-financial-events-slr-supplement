@@ -1,0 +1,156 @@
+{
+  "protocol": "PROTOCOL.md",
+  "run_started": "2026-10-19T18:59:25",
+  "date_filter": "from_publication_date:2020-01-01,to_publication_date:2026-12-31",
+  "type_filter": "type:!dissertation,type:!dataset,type:!paratext,type:!editorial,type:!letter,type:!erratum,type:!peer-review,type:!retraction",
+  "grid": [
+    10,
+    20,
+    50,
+    100,
+    200,
+    500,
+    1000
+  ],
+  "dev_target": 0.9,
+  "N_works": 71319636,
+  "threshold_trace": [
+    {
+      "R": 10,
+      "n_terms": 48,
+      "dev_match_offline": 1.0
+    },
+    {
+      "R": 20,
+      "n_terms": 44,
+      "dev_match_offline": 1.0
+    },
+    {
+      "R": 50,
+      "n_terms": 36,
+      "dev_match_offline": 0.977
+    },
+    {
+      "R": 100,
+      "n_terms": 27,
+      "dev_match_offline": 0.955
+    },
+    {
+      "R": 200,
+      "n_terms": 25,
+      "dev_match_offline": 0.841
+    },
+    {
+      "R": 500,
+      "n_terms": 21,
+      "dev_match_offline": 0.727
+    },
+    {
+      "R": 1000,
+      "n_terms": 16,
+      "dev_match_offline": 0.614
+    }
+  ],
+  "R": 100,
+  "n_terms": 27,
+  "query": "causal OR chamber OR chatbot OR cryptocurrency OR disinformation OR echo OR \"event studies\" OR fake OR \"financial market\" OR garch OR hawkes OR \"influence operations\" OR investor OR manipulation OR misinformation OR news OR \"online social networks\" OR opinion OR propaganda OR \"pump and dump\" OR reddit OR rumor OR sentiment OR \"social networks\" OR stock OR \"structural break\" OR twitter",
+  "query_sha256": "51377ba9737a1b12a8a0b8878bb0c5a27f32e47ad78dd6255a59cf54fb06a7f6",
+  "frozen_at": "2026-10-19T19:00:25",
+  "records": 528412,
+  "results": {
+    "development_all": {
+      "retrieved": 42,
+      "n": 44,
+      "share": 0.955,
+      "ci95": [
+        0.849,
+        0.987
+      ]
+    },
+    "development_indexed": {
+      "retrieved": 42,
+      "n": 44,
+      "share": 0.955,
+      "ci95": [
+        0.849,
+        0.987
+      ]
+    },
+    "validation_all": {
+      "retrieved": 29,
+      "n": 38,
+      "share": 0.763,
+      "ci95": [
+        0.608,
+        0.87
+      ]
+    },
+    "validation_indexed": {
+      "retrieved": 29,
+      "n": 36,
+      "share": 0.806,
+      "ci95": [
+        0.65,
+        0.902
+      ]
+    }
+  },
+  "validation_missed": [
+    "hrckova2025autonomation (Class 3 - Hybrid Human-AI Annotation and Verification)",
+    "liu2024exploring (Class 3 - Hybrid Human-AI Annotation and Verification)",
+    "smith2024unraveling (Class 5 - Behavioural and Psychological Modelling)",
+    "su2025emotionally (Class 6 - Intervention and Inoculation Strategies)",
+    "yang2025price (F3 - High-frequency and intraday market response)",
+    "bradley2024place (F5 - Market manipulation and abusive trading detection)",
+    "roy2024unveiling (F5 - Market manipulation and abusive trading detection)",
+    "cayuela2025influence (Opinion Manipulation: Definition and Typologies) - not indexed in OpenAlex",
+    "kumarsocial (Opinion Manipulation: Definition and Typologies) - not indexed in OpenAlex"
+  ],
+  "run_finished": "2026-10-19T19:05:34",
+  "deviations": [
+    {
+      "date": "2026-10-19T19:05:34",
+      "what": "steps 3-4 re-executed with run_step3.py",
+      "why": "first run: the register used had no openalex_id values, so no included study could be matched (all reported as not indexed); terms, threshold and query unchanged (same SHA-256)",
+      "first_run_records": 528412,
+      "first_run_results": {
+        "development_all": {
+          "retrieved": 0,
+          "n": 44,
+          "share": 0.0,
+          "ci95": [
+            0.0,
+            0.08
+          ]
+        },
+        "development_indexed": {
+          "retrieved": 0,
+          "n": 0,
+          "share": NaN,
+          "ci95": [
+            NaN,
+            NaN
+          ]
+        },
+        "validation_all": {
+          "retrieved": 0,
+          "n": 38,
+          "share": 0.0,
+          "ci95": [
+            0.0,
+            0.092
+          ]
+        },
+        "validation_indexed": {
+          "retrieved": 0,
+          "n": 0,
+          "share": NaN,
+          "ci95": [
+            NaN,
+            NaN
+          ]
+        }
+      }
+    }
+  ]
+}

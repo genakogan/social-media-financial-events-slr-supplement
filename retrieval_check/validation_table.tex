@@ -1,0 +1,29 @@
+\begin{table}[!htbp]
+\centering
+\caption{\textcolor{blue}{Retrospective known-item retrieval check in OpenAlex (20 October 2026): included studies published 2021--2026 retrieved by a title query derived from the development set by fixed rules and restricted to the OpenAlex subject fields of the development set. The check measures retrieval of known included studies; it does not reproduce the original search or estimate its sensitivity.}}
+\label{tab:retrievability_check}
+\scriptsize
+\begin{tabular}{p{5.0cm} p{7.6cm}}
+\hline
+\textbf{Validation set, by theme} & \textbf{Studies retrieved} \\
+\hline
+Social media analysis & 18/24 \\
+Financial market events & 6/9 \\
+Cross-domain events and causality & 5/5 \\
+\hline
+\textbf{Validation set, all} & \textbf{29/38 (76.3\%; 95\% CI 60.8\%--87.0\%)} \\
+Validation set, indexed in OpenAlex & 29/36 (80.6\%; 95\% CI 65.0\%--90.2\%) \\
+Development set & 42/44 (95.5\%) \\
+Records returned & 311,556 (528,902 without the subject-field restriction on the same day; $-$41.1\%) \\
+\hline
+\multicolumn{2}{p{13.0cm}}{\textit{Title query (27 terms):} causal OR chamber OR chatbot OR cryptocurrency OR disinformation OR echo OR ``event studies'' OR fake OR ``financial market'' OR garch OR hawkes OR ``influence operations'' OR investor OR manipulation OR misinformation OR news OR ``online social networks'' OR opinion OR propaganda OR ``pump and dump'' OR reddit OR rumor OR sentiment OR ``social networks'' OR stock OR ``structural break'' OR twitter} \\
+\multicolumn{2}{p{13.0cm}}{\textit{Restrictions:} publication dates 2020--2026; ineligible document types excluded; OpenAlex fields Social Sciences; Economics, Econometrics and Finance; Computer Science; Physics and Astronomy; Decision Sciences; no language restriction.} \\
+\hline
+\end{tabular}
+
+\vspace{4pt}
+\begin{minipage}{13.4cm}
+\scriptsize
+\textit{Note.} The included studies published 2021--2026 were split at random within each category of the flow diagram into a development set (44) and a validation set (38). Candidate terms were the words and two-word phrases occurring in at least two development titles and the keywords of Table~\ref{tab:search_concepts}; terms enriched in the development titles relative to OpenAlex were kept, with the threshold chosen on the development set (R = 100); offline matching of the development titles was used only for this choice, and all retrieval figures are from the OpenAlex searches. Publication dates start in 2020 because OpenAlex dates some works by their first online version. The subject fields are those of the primary topics of the development studies; the restriction was chosen after the fields of the validation studies had been inspected and is therefore not independently validated. It did not remove any of the known included studies retrieved by the original pre-specified query, which retrieved the same validation studies. A language filter was tested and dropped because it lost two validation studies to which OpenAlex assigns no language (\citealp{cui2025toward,goldsmith2025causal}); the language criterion is applied at screening. Validation studies indexed in OpenAlex but not retrieved: \citealp{hrckova2025autonomation,liu2024exploring,smith2024unraveling,su2025emotionally,yang2025price,bradley2024place,roy2024unveiling}; not indexed in OpenAlex: \citealp{cayuela2025influence,kumarsocial}. Protocol, terms, counts, per-study results and earlier configurations are reported in Supplementary Table~S1.
+\end{minipage}
+\end{table}

@@ -1,0 +1,28 @@
+field_id,field,records_term_query,kept_in_final_query
+33,Social Sciences,113594,yes
+17,Computer Science,96015,yes
+20,"Economics, Econometrics and Finance",59407,yes
+14,"Business, Management and Accounting",47166,no
+27,Medicine,35127,no
+22,Engineering,28389,no
+18,Decision Sciences,26014,yes
+12,Arts and Humanities,20865,no
+31,Physics and Astronomy,16526,yes
+none,no primary topic,15218,no
+32,Psychology,13711,no
+23,Environmental Science,13060,no
+13,"Biochemistry, Genetics and Molecular Biology",8942,no
+11,Agricultural and Biological Sciences,7568,no
+26,Mathematics,7006,no
+36,Health Professions,5865,no
+28,Neuroscience,3461,no
+25,Materials Science,3020,no
+19,Earth and Planetary Sciences,2081,no
+15,Chemical Engineering,1192,no
+24,Immunology and Microbiology,824,no
+21,Energy,756,no
+16,Chemistry,740,no
+35,Dentistry,705,no
+30,"Pharmacology, Toxicology and Pharmaceutics",660,no
+29,Nursing,635,no
+34,Veterinary,355,no

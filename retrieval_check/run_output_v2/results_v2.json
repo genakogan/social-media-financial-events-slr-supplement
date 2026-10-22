@@ -1,0 +1,358 @@
+{
+  "note": "Results of protocol version 2 (PROTOCOL_v2.md), 20 October 2026, as printed by run_v2.py (B, D), run_v2A.py (A) and run_v2E.py (E). The per-run files (protocol_log_v2.json, retrieval_v2*.csv) are in run_output_v2/ when available.",
+  "variants": {
+    "v1": {
+      "label": "version 1 (pre-specified)",
+      "change": "frozen 27-term title query; dates 2020-2026; ineligible document types excluded",
+      "run": "2026-10-19",
+      "records": 528412,
+      "development": {
+        "retrieved": 42,
+        "n": 44,
+        "share": 0.955,
+        "ci95": [
+          0.849,
+          0.987
+        ]
+      },
+      "validation_all": {
+        "retrieved": 29,
+        "n": 38,
+        "share": 0.763,
+        "ci95": [
+          0.608,
+          0.87
+        ]
+      },
+      "validation_indexed": {
+        "retrieved": 29,
+        "n": 36,
+        "share": 0.806,
+        "ci95": [
+          0.65,
+          0.902
+        ]
+      },
+      "missed_beyond_v1": []
+    },
+    "A": {
+      "label": "variant A (added after B and D were run)",
+      "change": "version-1 query unchanged + language:en",
+      "run": "2026-10-20",
+      "records": 427734,
+      "development": {
+        "retrieved": 42,
+        "n": 44,
+        "share": 0.955,
+        "ci95": [
+          0.849,
+          0.987
+        ]
+      },
+      "validation_all": {
+        "retrieved": 27,
+        "n": 38,
+        "share": 0.711,
+        "ci95": [
+          0.552,
+          0.83
+        ]
+      },
+      "validation_indexed": {
+        "retrieved": 27,
+        "n": 36,
+        "share": 0.75,
+        "ci95": [
+          0.589,
+          0.862
+        ]
+      },
+      "missed_beyond_v1": [
+        "cui2025toward",
+        "goldsmith2025causal"
+      ]
+    },
+    "B": {
+      "label": "variant B (pre-specified in version 2)",
+      "change": "language:en + specificity cap K = 50,000 (smallest K with >= 90% of development titles matched)",
+      "run": "2026-10-20",
+      "records": 297641,
+      "development": {
+        "retrieved": 39,
+        "n": 44,
+        "share": 0.886,
+        "ci95": [
+          0.76,
+          0.95
+        ]
+      },
+      "validation_all": {
+        "retrieved": 24,
+        "n": 38,
+        "share": 0.632,
+        "ci95": [
+          0.473,
+          0.766
+        ]
+      },
+      "validation_indexed": {
+        "retrieved": 24,
+        "n": 36,
+        "share": 0.667,
+        "ci95": [
+          0.503,
+          0.798
+        ]
+      },
+      "missed_beyond_v1": [
+        "assaad2022survey",
+        "sadeghi2025causal",
+        "amieur2025comparative",
+        "cui2025toward",
+        "goldsmith2025causal"
+      ]
+    },
+    "D": {
+      "label": "variant D (pre-specified in version 2)",
+      "change": "language:en + specificity cap K = 10,000",
+      "run": "2026-10-20",
+      "records": 49580,
+      "development": {
+        "retrieved": 26,
+        "n": 44,
+        "share": 0.591,
+        "ci95": [
+          0.444,
+          0.723
+        ]
+      },
+      "validation_all": {
+        "retrieved": 12,
+        "n": 38,
+        "share": 0.316,
+        "ci95": [
+          0.191,
+          0.475
+        ]
+      },
+      "validation_indexed": {
+        "retrieved": 12,
+        "n": 36,
+        "share": 0.333,
+        "ci95": [
+          0.202,
+          0.497
+        ]
+      },
+      "missed_beyond_v1": null
+    },
+    "E": {
+      "label": "variant E (added after A was run)",
+      "change": "version-1 query unchanged + language:en + primary-topic fields of the development studies (Social Sciences, Economics/Econometrics/Finance, Computer Science, Physics and Astronomy, Decision Sciences)",
+      "run": "2026-10-20",
+      "records": 247876,
+      "development": {
+        "retrieved": 42,
+        "n": 44,
+        "share": 0.955,
+        "ci95": [
+          0.849,
+          0.987
+        ]
+      },
+      "validation_all": {
+        "retrieved": 27,
+        "n": 38,
+        "share": 0.711,
+        "ci95": [
+          0.552,
+          0.83
+        ]
+      },
+      "validation_indexed": {
+        "retrieved": 27,
+        "n": 36,
+        "share": 0.75,
+        "ci95": [
+          0.589,
+          0.862
+        ]
+      },
+      "missed_beyond_v1": [
+        "cui2025toward",
+        "goldsmith2025causal"
+      ],
+      "fields_kept": {
+        "33": [
+          "Social Sciences",
+          23
+        ],
+        "20": [
+          "Economics, Econometrics and Finance",
+          15
+        ],
+        "17": [
+          "Computer Science",
+          3
+        ],
+        "31": [
+          "Physics and Astronomy",
+          2
+        ],
+        "18": [
+          "Decision Sciences",
+          1
+        ]
+      },
+      "records_variant_A_by_field": [
+        {
+          "field": "Social Sciences",
+          "records": 87989,
+          "kept_in_E": true
+        },
+        {
+          "field": "Computer Science",
+          "records": 74833,
+          "kept_in_E": true
+        },
+        {
+          "field": "Economics, Econometrics and Finance",
+          "records": 50152,
+          "kept_in_E": true
+        },
+        {
+          "field": "Business, Management and Accounting",
+          "records": 38236,
+          "kept_in_E": false
+        },
+        {
+          "field": "Medicine",
+          "records": 31383,
+          "kept_in_E": false
+        },
+        {
+          "field": "Engineering",
+          "records": 23369,
+          "kept_in_E": false
+        },
+        {
+          "field": "Decision Sciences",
+          "records": 21466,
+          "kept_in_E": true
+        },
+        {
+          "field": "Arts and Humanities",
+          "records": 14818,
+          "kept_in_E": false
+        },
+        {
+          "field": "Physics and Astronomy",
+          "records": 13436,
+          "kept_in_E": true
+        },
+        {
+          "field": "no primary topic (unknown)",
+          "records": 11839,
+          "kept_in_E": false
+        },
+        {
+          "field": "Environmental Science",
+          "records": 11187,
+          "kept_in_E": false
+        },
+        {
+          "field": "Psychology",
+          "records": 10738,
+          "kept_in_E": false
+        },
+        {
+          "field": "Biochemistry, Genetics and Molecular Biology",
+          "records": 8264,
+          "kept_in_E": false
+        },
+        {
+          "field": "Agricultural and Biological Sciences",
+          "records": 6552,
+          "kept_in_E": false
+        },
+        {
+          "field": "Mathematics",
+          "records": 5656,
+          "kept_in_E": false
+        },
+        {
+          "field": "Health Professions",
+          "records": 4933,
+          "kept_in_E": false
+        },
+        {
+          "field": "Neuroscience",
+          "records": 2981,
+          "kept_in_E": false
+        },
+        {
+          "field": "Materials Science",
+          "records": 2807,
+          "kept_in_E": false
+        },
+        {
+          "field": "Earth and Planetary Sciences",
+          "records": 1808,
+          "kept_in_E": false
+        },
+        {
+          "field": "Chemical Engineering",
+          "records": 1108,
+          "kept_in_E": false
+        },
+        {
+          "field": "Immunology and Microbiology",
+          "records": 741,
+          "kept_in_E": false
+        },
+        {
+          "field": "Chemistry",
+          "records": 694,
+          "kept_in_E": false
+        },
+        {
+          "field": "Energy",
+          "records": 671,
+          "kept_in_E": false
+        },
+        {
+          "field": "Dentistry",
+          "records": 650,
+          "kept_in_E": false
+        },
+        {
+          "field": "Nursing",
+          "records": 552,
+          "kept_in_E": false
+        },
+        {
+          "field": "Pharmacology, Toxicology and Pharmaceutics",
+          "records": 548,
+          "kept_in_E": false
+        },
+        {
+          "field": "Veterinary",
+          "records": 323,
+          "kept_in_E": false
+        }
+      ]
+    }
+  },
+  "language_check": {
+    "date": "2026-10-20",
+    "cui2025toward": {
+      "openalex_id": "W4415736465",
+      "language": null
+    },
+    "goldsmith2025causal": {
+      "openalex_id": "W7106255595",
+      "language": null
+    },
+    "note": "Both studies have a primary topic in Social Sciences (cui2025toward) and Economics, Econometrics and Finance (goldsmith2025causal), fields kept in variant E; they are lost by the language filter only."
+  }
+}

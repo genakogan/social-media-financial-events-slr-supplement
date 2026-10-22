@@ -1,0 +1,34 @@
+bibkey,field,old,new,reason,source
+chang2022systematic,doi,10.1016/j.procs.2022.09.374,10.1016/j.procs.2022.09.373,DOI resolved to another article (A reverse personnel assignment method ...),"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+zhou2020two,doi,10.1016/j.ins.2020.01.016,10.1016/j.ins.2020.01.052,DOI resolved to another article (Recognizing novel patterns via adversarial learning ...),"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+mridha2021comprehensive,doi,10.1109/ACCESS.2021.3128879,10.1109/ACCESS.2021.3129329,DOI resolved to another article (Incremental Attribute Reduction ...),"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+anderson2003micro,doi,10.1257/000282803321455214,10.1257/000282803321455151,DOI resolved to another article (Gravity with Gravitas ...),"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+kogan2023social,doi,10.1093/rof/rfad010,10.1093/rof/rfac058,"DOI resolved to another article (Income, Liquidity, and the Consumption Response ...)","OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+ienca2023artificial,doi,10.1007/s11245-021-09797-0,10.1007/s11245-023-09940-3,DOI not registered in Crossref; DOI of the matching OpenAlex record,"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+butts2023mathematical,doi,10.1038/s41598-023-45671-z,10.1038/s41598-023-45710-2,DOI not registered in Crossref; DOI of the matching OpenAlex record,"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+smith2024unraveling,doi,10.1007/s12144-023-04628-2,10.1007/s12144-023-05350-1,DOI not registered in Crossref; DOI of the matching OpenAlex record,"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+budak2024misunderstanding,doi,10.1038/s41586-024-07328-2,10.1038/s41586-024-07417-w,DOI not registered in Crossref; DOI of the matching OpenAlex record,"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+sadeghi2025causal,doi,10.1007/s41060-024-00679-},10.1007/s41060-024-00679-7},DOI truncated (last character missing),"OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+wang2022causal,doi,"year={2022},","year={2022},
+  doi={10.1016/j.econlet.2022.110598},",DOI missing,"Full text of the article (Economics Letters 216, 110598)"
+campbell1997econometrics,doi,"isbn      = {9780691043012},
+  doi={10.1017/S1365100598009092}",isbn      = {9780691043012},"DOI belongs to a 1998 item in Macroeconomic Dynamics about the book, not to the book; ISBN kept","OpenAlex/Crossref check, verify_corpus.py run 2026-10-19"
+ghazouani2025virtual,year/volume,"pages={100375},
+  year={2025},","volume={7},
+  pages={100375},
+  year={2026},",Published in volume 7 (2026); online 2025,Full text of the article (Blockchain: Research and Applications 7 (2026) 100375)
+kim2025news,title/author,"title={How social-network attention and sentiment of investors affect commodity futures market returns: New evidence from {China}},","title={News vs. Social Media: Sentiment Impact on Stock Performance of Big {Tech} Companies},
+  author={Kim-Hahm, Hyunsun and Abou-Zaid, Ahmed S. and Mohd, Abidalrahman},",Title was copied from liu2023social and authors were missing,"DOI record 10.3390/jrfm18120660 (OpenAlex, Crossref, ResearchGate)"
+page2021prisma,author,"Shamseer, Larissa andCharacteristicTetzlaff, Jennifer M","Shamseer, Larissa and Tetzlaff, Jennifer M",Corrupted author field (merged names),Manual correction
+hegselmann2002opinion,journal,Journal of Artifical Societies and Social Simulation (JASSS) vol,Journal of Artificial Societies and Social Simulation,Typo in journal name,Manual correction
+stapic2012performing,url,{ttps://,{https://,Malformed URL,Manual correction
+hausner2012routine,new entry,,"@article{hausner2012routine,
+  title={Routine development of objectively derived search strategies},
+  author={Hausner, Elke and Waffenschmidt, Siw and Kaiser, Thomas and Simon, Michael},
+  journal={Systematic Reviews},
+  volume={1},
+  number={1},
+  pages={19},
+  year={2012},
+  doi={10.1186/2046-4053-1-19}
+}",Method reference for the validated verification search (subsection Reproducibility of the Review),Systematic Reviews 1:19 (2012); record checked on the University of Southampton repository (eprints.soton.ac.uk/301322)

@@ -1,0 +1,46 @@
+records of variant A (English only): 427,734; by field, largest first:
+    + Social Sciences: 87,989
+    + Computer Science: 74,833
+    + Economics, Econometrics and Finance: 50,152
+    - Business, Management and Accounting: 38,236
+    - Medicine: 31,383
+    - Engineering: 23,369
+    + Decision Sciences: 21,466
+    - Arts and Humanities: 14,818
+    + Physics and Astronomy: 13,436
+    - unknown: 11,839
+    - Environmental Science: 11,187
+    - Psychology: 10,738
+    - Biochemistry, Genetics and Molecular Biology: 8,264
+    - Agricultural and Biological Sciences: 6,552
+    - Mathematics: 5,656
+    - Health Professions: 4,933
+    - Neuroscience: 2,981
+    - Materials Science: 2,807
+    - Earth and Planetary Sciences: 1,808
+    - Chemical Engineering: 1,108
+    - Immunology and Microbiology: 741
+    - Chemistry: 694
+    - Energy: 671
+    - Dentistry: 650
+    - Nursing: 552
+    - Pharmacology, Toxicology and Pharmaceutics: 548
+    - Veterinary: 323
+  (+ kept in variant E, - removed)
+variant E (English only + 5 fields of the development studies): 247,876 records
+  development all      42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  development indexed  42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  validation  all      27/38 = 71.1%  (95% CI 55.2%-83.0%)
+  validation  indexed  27/36 = 75.0%  (95% CI 58.9%-86.2%)
+  validation studies not retrieved:
+    cui2025toward (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)
+    hrckova2025autonomation (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)
+    liu2024exploring (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)
+    smith2024unraveling (Class 5 - Behavioural and Psychological Modelling; field: Social Sciences)
+    su2025emotionally (Class 6 - Intervention and Inoculation Strategies; field: Computer Science)
+    goldsmith2025causal (F1 - Classical event-study econometrics; field: Economics, Econometrics and Finance)
+    yang2025price (F3 - High-frequency and intraday market response; field: Economics, Econometrics and Finance)
+    bradley2024place (F5 - Market manipulation and abusive trading detection; field: Economics, Econometrics and Finance)
+    roy2024unveiling (F5 - Market manipulation and abusive trading detection; field: Computer Science)
+    cayuela2025influence (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex
+    kumarsocial (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex

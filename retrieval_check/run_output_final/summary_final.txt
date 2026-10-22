@@ -1,0 +1,45 @@
+records of the term query (dates 2020-2026, ineligible types excluded): 528,902; by field, largest first:
+    + Social Sciences: 113,594
+    + Computer Science: 96,015
+    + Economics, Econometrics and Finance: 59,407
+    - Business, Management and Accounting: 47,166
+    - Medicine: 35,127
+    - Engineering: 28,389
+    + Decision Sciences: 26,014
+    - Arts and Humanities: 20,865
+    + Physics and Astronomy: 16,526
+    - no primary topic: 15,218
+    - Psychology: 13,711
+    - Environmental Science: 13,060
+    - Biochemistry, Genetics and Molecular Biology: 8,942
+    - Agricultural and Biological Sciences: 7,568
+    - Mathematics: 7,006
+    - Health Professions: 5,865
+    - Neuroscience: 3,461
+    - Materials Science: 3,020
+    - Earth and Planetary Sciences: 2,081
+    - Chemical Engineering: 1,192
+    - Immunology and Microbiology: 824
+    - Energy: 756
+    - Chemistry: 740
+    - Dentistry: 705
+    - Pharmacology, Toxicology and Pharmaceutics: 660
+    - Nursing: 635
+    - Veterinary: 355
+  (+ kept in the final query, - removed)
+final query (term query + 5 fields of the development studies, no language filter): 311,556 records
+  of which not tagged as English by OpenAlex (other language or none): 63,578
+  development all      42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  development indexed  42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  validation  all      29/38 = 76.3%  (95% CI 60.8%-87.0%)
+  validation  indexed  29/36 = 80.6%  (95% CI 65.0%-90.2%)
+  validation studies not retrieved:
+    hrckova2025autonomation (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)
+    liu2024exploring (Class 3 - Hybrid Human-AI Annotation and Verification; field: Social Sciences)
+    smith2024unraveling (Class 5 - Behavioural and Psychological Modelling; field: Social Sciences)
+    su2025emotionally (Class 6 - Intervention and Inoculation Strategies; field: Computer Science)
+    yang2025price (F3 - High-frequency and intraday market response; field: Economics, Econometrics and Finance)
+    bradley2024place (F5 - Market manipulation and abusive trading detection; field: Economics, Econometrics and Finance)
+    roy2024unveiling (F5 - Market manipulation and abusive trading detection; field: Computer Science)
+    cayuela2025influence (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex
+    kumarsocial (Opinion Manipulation: Definition and Typologies; field: -) - not indexed in OpenAlex

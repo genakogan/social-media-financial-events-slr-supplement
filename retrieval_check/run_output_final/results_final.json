@@ -1,0 +1,206 @@
+{
+  "note": "Final run of PROTOCOL.md (run_final.py), 20 October 2026, as printed by run_final.py. The per-run files are in run_output_final/ when available.",
+  "run": "2026-10-20",
+  "records_term_query": 528902,
+  "records": 311556,
+  "records_not_tagged_english": 63578,
+  "fields_kept": {
+    "33": [
+      "Social Sciences",
+      23
+    ],
+    "20": [
+      "Economics, Econometrics and Finance",
+      15
+    ],
+    "17": [
+      "Computer Science",
+      3
+    ],
+    "31": [
+      "Physics and Astronomy",
+      2
+    ],
+    "18": [
+      "Decision Sciences",
+      1
+    ]
+  },
+  "development": {
+    "retrieved": 42,
+    "n": 44,
+    "share": 0.955,
+    "ci95": [
+      0.849,
+      0.987
+    ]
+  },
+  "validation_all": {
+    "retrieved": 29,
+    "n": 38,
+    "share": 0.763,
+    "ci95": [
+      0.608,
+      0.87
+    ]
+  },
+  "validation_indexed": {
+    "retrieved": 29,
+    "n": 36,
+    "share": 0.806,
+    "ci95": [
+      0.65,
+      0.902
+    ]
+  },
+  "validation_missed": [
+    "hrckova2025autonomation",
+    "liu2024exploring",
+    "smith2024unraveling",
+    "su2025emotionally",
+    "yang2025price",
+    "bradley2024place",
+    "roy2024unveiling"
+  ],
+  "validation_not_indexed": [
+    "cayuela2025influence",
+    "kumarsocial"
+  ],
+  "records_term_query_by_field": [
+    {
+      "field": "Social Sciences",
+      "records": 113594,
+      "kept": true
+    },
+    {
+      "field": "Computer Science",
+      "records": 96015,
+      "kept": true
+    },
+    {
+      "field": "Economics, Econometrics and Finance",
+      "records": 59407,
+      "kept": true
+    },
+    {
+      "field": "Business, Management and Accounting",
+      "records": 47166,
+      "kept": false
+    },
+    {
+      "field": "Medicine",
+      "records": 35127,
+      "kept": false
+    },
+    {
+      "field": "Engineering",
+      "records": 28389,
+      "kept": false
+    },
+    {
+      "field": "Decision Sciences",
+      "records": 26014,
+      "kept": true
+    },
+    {
+      "field": "Arts and Humanities",
+      "records": 20865,
+      "kept": false
+    },
+    {
+      "field": "Physics and Astronomy",
+      "records": 16526,
+      "kept": true
+    },
+    {
+      "field": "no primary topic",
+      "records": 15218,
+      "kept": false
+    },
+    {
+      "field": "Psychology",
+      "records": 13711,
+      "kept": false
+    },
+    {
+      "field": "Environmental Science",
+      "records": 13060,
+      "kept": false
+    },
+    {
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "records": 8942,
+      "kept": false
+    },
+    {
+      "field": "Agricultural and Biological Sciences",
+      "records": 7568,
+      "kept": false
+    },
+    {
+      "field": "Mathematics",
+      "records": 7006,
+      "kept": false
+    },
+    {
+      "field": "Health Professions",
+      "records": 5865,
+      "kept": false
+    },
+    {
+      "field": "Neuroscience",
+      "records": 3461,
+      "kept": false
+    },
+    {
+      "field": "Materials Science",
+      "records": 3020,
+      "kept": false
+    },
+    {
+      "field": "Earth and Planetary Sciences",
+      "records": 2081,
+      "kept": false
+    },
+    {
+      "field": "Chemical Engineering",
+      "records": 1192,
+      "kept": false
+    },
+    {
+      "field": "Immunology and Microbiology",
+      "records": 824,
+      "kept": false
+    },
+    {
+      "field": "Energy",
+      "records": 756,
+      "kept": false
+    },
+    {
+      "field": "Chemistry",
+      "records": 740,
+      "kept": false
+    },
+    {
+      "field": "Dentistry",
+      "records": 705,
+      "kept": false
+    },
+    {
+      "field": "Pharmacology, Toxicology and Pharmaceutics",
+      "records": 660,
+      "kept": false
+    },
+    {
+      "field": "Nursing",
+      "records": 635,
+      "kept": false
+    },
+    {
+      "field": "Veterinary",
+      "records": 355,
+      "kept": false
+    }
+  ]
+}

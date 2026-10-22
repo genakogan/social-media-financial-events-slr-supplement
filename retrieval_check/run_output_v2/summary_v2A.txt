@@ -1,0 +1,17 @@
+variant A (version-1 query, English only): 427,734 records
+  development all      42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  development indexed  42/44 = 95.5%  (95% CI 84.9%-98.7%)
+  validation  all      27/38 = 71.1%  (95% CI 55.2%-83.0%)
+  validation  indexed  27/36 = 75.0%  (95% CI 58.9%-86.2%)
+  validation studies not retrieved:
+    cui2025toward (Class 3 - Hybrid Human-AI Annotation and Verification)
+    hrckova2025autonomation (Class 3 - Hybrid Human-AI Annotation and Verification)
+    liu2024exploring (Class 3 - Hybrid Human-AI Annotation and Verification)
+    smith2024unraveling (Class 5 - Behavioural and Psychological Modelling)
+    su2025emotionally (Class 6 - Intervention and Inoculation Strategies)
+    goldsmith2025causal (F1 - Classical event-study econometrics)
+    yang2025price (F3 - High-frequency and intraday market response)
+    bradley2024place (F5 - Market manipulation and abusive trading detection)
+    roy2024unveiling (F5 - Market manipulation and abusive trading detection)
+    cayuela2025influence (Opinion Manipulation: Definition and Typologies) - not indexed in OpenAlex
+    kumarsocial (Opinion Manipulation: Definition and Typologies) - not indexed in OpenAlex

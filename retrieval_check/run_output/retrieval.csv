@@ -1,0 +1,83 @@
+bibkey,set,prisma_box,theme,openalex_id,indexed,retrieved
+chen2024discovery,development,Causal Identification,Cross-Domain Events and Causality,W4386875684,True,True
+gong2024causal,development,Causal Identification,Cross-Domain Events and Causality,W4404650820,True,True
+seetharam2024headlines,development,Causal Identification,Cross-Domain Events and Causality,W4401637502,True,True
+tong2022assessing,development,Causal Identification,Cross-Domain Events and Causality,W4296197040,True,True
+butts2023mathematical,development,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,W4388048121,True,True
+ge2024novel,development,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,W4407432899,True,True
+paul2023mathematical,development,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,W4407057928,True,True
+mahmud2026detecting,development,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W7130827924,True,True
+ozcelik2025detecting,development,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4405566696,True,True
+tufchi2024transvae,development,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4392347598,True,True
+yang2025llm,development,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4407369317,True,True
+fan2026skeptik,development,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4414476222,True,True
+lee2025countering,development,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4406258040,True,True
+sahitaj2025hybrid,development,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4412944267,True,True
+bellina2025language,development,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W4415310342,True,True
+impicciche2025comparing,development,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W4405248842,True,True
+loru2026compression,development,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W4416841974,True,False
+wang2026rumor,development,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W7131085584,True,True
+budak2024misunderstanding,development,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4399366359,True,True
+govers2025feeds,development,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4408449869,True,True
+khan2024targets,development,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4396218543,True,True
+lutz2024linguistic,development,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4396218134,True,True
+chuai2024did,development,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4404171602,True,True
+shahid2025one,development,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4410049549,True,False
+tang2025breaking,development,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4414836461,True,True
+yu2025breaking,development,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4412827327,True,True
+ding2021quantifying,development,Cross-Domain Challenges,Cross-Domain Events and Causality,W3196388595,True,True
+wang2022causal,development,Cross-Domain Challenges,Cross-Domain Events and Causality,W4280493991,True,True
+el2023event,development,F1 - Classical event-study econometrics,Financial market events,W4284883529,True,True
+pynnonen2022non,development,F1 - Classical event-study econometrics,Financial market events,W4220719043,True,True
+hasanov2024structural,development,"F2 - Volatility, risk, and structural change",Financial market events,W4401402098,True,True
+zhu2025volatility,development,"F2 - Volatility, risk, and structural change",Financial market events,W4399703612,True,True
+mucciante2024estimation,development,F3 - High-frequency and intraday market response,Financial market events,W4385782110,True,True
+nystrom2022hawkes,development,F3 - High-frequency and intraday market response,Financial market events,W3186863058,True,True
+arnold2022attention,development,F4 - Textual and attention-augmented asset pricing,Financial market events,W3118192601,True,True
+kim2025news,development,F4 - Textual and attention-augmented asset pricing,Financial market events,W4416592915,True,True
+keasey2025impact,development,F5 - Market manipulation and abusive trading detection,Financial market events,W4402517944,True,True
+kogan2023social,development,F5 - Market manipulation and abusive trading detection,Financial market events,W3200102637,True,True
+leuz2026falls,development,F5 - Market manipulation and abusive trading detection,Financial market events,W4416210187,True,True
+li2025cryptocurrency,development,F5 - Market manipulation and abusive trading detection,Financial market events,W4409174306,True,True
+chang2022systematic,development,Opinion Manipulation: Definition and Typologies,Social media analysis,W4312651142,True,True
+pal2025media,development,Opinion Manipulation: Definition and Typologies,Social media analysis,W4408684161,True,True
+pastor2025influence,development,Opinion Manipulation: Definition and Typologies,Social media analysis,W4407719590,True,True
+zhang4450056integrated,development,Opinion in Social Networks,Social media analysis,W4376855031,True,True
+assaad2022survey,validation,Causal Identification,Cross-Domain Events and Causality,W4214698730,True,True
+ghazouani2025virtual,validation,Causal Identification,Cross-Domain Events and Causality,W4413466225,True,True
+sadeghi2025causal,validation,Causal Identification,Cross-Domain Events and Causality,W4404439782,True,True
+bhalla2025local,validation,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,W3216173699,True,True
+evangelatos2025modeling,validation,Class 1 - Mathematical and System-Dynamics Modelling,Social media analysis,W4412593918,True,True
+huang2025hybrid,validation,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4413394554,True,True
+mridha2021comprehensive,validation,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W3216370178,True,True
+saadi2025enhancing,validation,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4411122931,True,True
+sharma2025novel,validation,Class 2 - Machine & Deep Learning Content Detection,Social media analysis,W4409256702,True,True
+cui2025toward,validation,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4415736465,True,True
+hrckova2025autonomation,validation,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4414032582,True,False
+liu2024exploring,validation,Class 3 - Hybrid Human-AI Annotation and Verification,Social media analysis,W4415256754,True,False
+chen2022social,validation,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W4200463617,True,True
+fawzi2024pinocchio,validation,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W4396218575,True,True
+nobre2022hierarchical,validation,Class 4 - Network Structure and Propagation Analysis,Social media analysis,W3203440807,True,True
+amieur2025comparative,validation,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4415250186,True,True
+escola2023falls,validation,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4294883912,True,True
+sakib2025understanding,validation,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4415258878,True,True
+smith2024unraveling,validation,Class 5 - Behavioural and Psychological Modelling,Social media analysis,W4388084625,True,False
+jeon2024hearhere,validation,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4396230918,True,True
+roozenbeek2022technique,validation,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4280610708,True,True
+su2025emotionally,validation,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4415256889,True,False
+wang2025limited,validation,Class 6 - Intervention and Inoculation Strategies,Social media analysis,W4410833287,True,True
+arcuri2023does,validation,Cross-Domain Challenges,Cross-Domain Events and Causality,W4383955198,True,True
+fan2024measuring,validation,Cross-Domain Challenges,Cross-Domain Events and Causality,W4402357837,True,True
+goldsmith2025causal,validation,F1 - Classical event-study econometrics,Financial market events,W7106255595,True,True
+nguyen2026permutation,validation,F1 - Classical event-study econometrics,Financial market events,W7140172419,True,True
+mugrabi2026financial,validation,"F2 - Volatility, risk, and structural change",Financial market events,W4414769417,True,True
+sun2026inference,validation,"F2 - Volatility, risk, and structural change",Financial market events,W4408449336,True,True
+yang2025price,validation,F3 - High-frequency and intraday market response,Financial market events,W4400112346,True,False
+liu2023social,validation,F4 - Textual and attention-augmented asset pricing,Financial market events,W4318320749,True,True
+bradley2024place,validation,F5 - Market manipulation and abusive trading detection,Financial market events,W4390043602,True,False
+la2023doge,validation,F5 - Market manipulation and abusive trading detection,Financial market events,W3159176111,True,True
+roy2024unveiling,validation,F5 - Market manipulation and abusive trading detection,Financial market events,W4399205260,True,False
+cayuela2025influence,validation,Opinion Manipulation: Definition and Typologies,Social media analysis,,False,False
+ienca2023artificial,validation,Opinion Manipulation: Definition and Typologies,Social media analysis,W4381430332,True,True
+kumarsocial,validation,Opinion Manipulation: Definition and Typologies,Social media analysis,,False,False
+gaillard2021countering,validation,Opinion in Social Networks,Social media analysis,W3182204087,True,True

@@ -1,0 +1,89 @@
+term,key,kind,source,df_dev,dev_categories
+social,social,word,development,11,Causal Identification; Class 2; Class 4; Class 6; Cross-Domain Challenges; F4; F5; Opinion Manipulation: Definition and Typologies
+news,news,word,development,9,Class 2; Class 5; Class 6; Cross-Domain Challenges; F4; F5; Opinion Manipulation: Definition and Typologies
+media,media,word,development,8,Causal Identification; Class 2; Class 4; Cross-Domain Challenges; F4; F5; Opinion Manipulation: Definition and Typologies
+misinformation,misinformation,word,development; Table 2,7,Class 2; Class 3; Class 5; Class 6
+social media,social media,phrase,development; Table 2,7,Causal Identification; Class 2; Class 4; Cross-Domain Challenges; F4; F5
+causal,causal,word,development,5,Causal Identification; Class 6; Cross-Domain Challenges
+detection,detection,word,development,5,Class 2; Class 3; Class 4; F2
+market,market,word,development,5,Causal Identification; Cross-Domain Challenges; F2; F5
+stock,stock,word,development,5,Causal Identification; Cross-Domain Challenges; F1; F4
+fake,fake,word,development,4,Class 2; Class 5; Opinion Manipulation: Definition and Typologies
+fake news,fake news,phrase,development; Table 2,4,Class 2; Class 5; Opinion Manipulation: Definition and Typologies
+financial,financial,word,development,4,F2; F3; F5
+impact,impact,word,development,4,Class 5; F4; F5; Opinion Manipulation: Definition and Typologies
+investor,investor,word,development,4,Causal Identification; F4; F5
+manipulation,manipulation,word,development,4,F5; Opinion Manipulation: Definition and Typologies
+model,model,word,development,4,Class 1; F2; F3
+networks,network,word,development,4,Causal Identification; Class 4; Class 6; Opinion Manipulation: Definition and Typologies
+online,online,word,development,4,Class 4; Class 5; Cross-Domain Challenges
+detecting,detecting,word,development,3,Class 2; Class 4
+disinformation,disinformation,word,development; Table 2,3,Class 1; Opinion Manipulation: Definition and Typologies
+dynamics,dynamic,word,development,3,Class 1; F2; Opinion in Social Networks
+hawkes,hawke,word,development,3,Cross-Domain Challenges; F3
+learning,learning,word,development,3,Class 2; Class 6
+llm,llm,word,development,3,Class 2; Class 3; Class 6
+mathematical,mathematical,word,development,3,Class 1; Opinion in Social Networks
+opinion,opinion,word,development,3,Class 1; Opinion Manipulation: Definition and Typologies; Opinion in Social Networks
+public,public,word,development,3,Class 1; Class 6; Opinion Manipulation: Definition and Typologies
+sentiment,sentiment,word,development,3,Causal Identification; Cross-Domain Challenges; F4
+social networks,social network,phrase,development; Table 2,3,Class 4; Class 6; Opinion Manipulation: Definition and Typologies
+ai,ai,word,development,2,Class 5; Opinion Manipulation: Definition and Typologies
+approach,approach,word,development,2,Class 2; Class 4
+attention,attention,word,development,2,Causal Identification; F4
+breaking,breaking,word,development,2,Class 6
+causal relationship,causal relationship,phrase,development,2,Causal Identification; Cross-Domain Challenges
+chamber,chamber,word,development,2,Class 4; Class 6
+chatbot,chatbot,word,development,2,Class 3; Class 5
+community,community,word,development,2,Class 2; Class 6
+context,context,word,development,2,Class 2
+cryptocurrency,cryptocurrency,word,development; Table 2,2,Causal Identification; F5
+data,data,word,development,2,Causal Identification; F3
+discovery,discovery,word,development,2,Causal Identification
+echo,echo,word,development,2,Class 4; Class 6
+echo chamber,echo chamber,phrase,development,2,Class 4; Class 6
+enhanced,enhanced,word,development,2,Class 2
+fall,fall,word,development,2,Class 5; F5
+financial market,financial market,phrase,development; Table 2,2,F2; F5
+framework,framework,word,development,2,Class 3; Opinion in Social Networks
+garch,garch,word,development,2,F2
+garch model,garch model,phrase,development,2,F2
+groups,group,word,development,2,Class 3; Class 6
+hawkes process,hawke process,phrase,development,2,Cross-Domain Challenges; F3
+hybrid,hybrid,word,development,2,Class 3
+influencer,influencer,word,development,2,Class 6; F5
+insights,insight,word,development,2,Class 2; Class 3
+linguistic,linguistic,word,development,2,Class 2; Class 5
+media sentiment,media sentiment,phrase,development,2,Cross-Domain Challenges; F4
+modeling,modeling,word,development,2,Class 1; Class 4
+performance,performance,word,development,2,F4; F5
+practices,practice,word,development,2,Class 5; Class 6
+private,private,word,development,2,Class 3; Class 6
+process,process,word,development,2,Cross-Domain Challenges; F3
+propagation,propagation,word,development,2,Class 1; Class 4
+public opinion,public opinion,phrase,development,2,Class 1; Opinion Manipulation: Definition and Typologies
+relationship,relationship,word,development,2,Causal Identification; Cross-Domain Challenges
+return,return,word,development,2,Cross-Domain Challenges; F1
+role,role,word,development,2,Class 6; Opinion Manipulation: Definition and Typologies
+rumor,rumor,word,development,2,Class 2; Class 4
+stock market,stock market,phrase,development; Table 2,2,Causal Identification; Cross-Domain Challenges
+stock return,stock return,phrase,development,2,Cross-Domain Challenges; F1
+taking,taking,word,development,2,Class 6; F4
+trust,trust,word,development,2,Class 5; Opinion Manipulation: Definition and Typologies
+twitter,twitter,word,development; Table 2,2,Class 4; Class 6
+user,user,word,development,2,Class 4; Class 5
+volatility,volatility,word,development; Table 2,2,F2
+event studies,event study,phrase,Table 2,1,F1
+fake news detection,fake news detection,phrase,Table 2,1,Class 2
+influence operations,influence operation,phrase,Table 2,1,Opinion Manipulation: Definition and Typologies
+investor attention,investor attention,phrase,Table 2,1,Causal Identification
+investor sentiment,investor sentiment,phrase,Table 2,1,Causal Identification
+market manipulation,market manipulation,phrase,Table 2,1,F5
+online social networks,online social network,phrase,Table 2,1,Class 4
+opinion dynamics,opinion dynamic,phrase,Table 2,1,Opinion in Social Networks
+opinion manipulation,opinion manipulation,phrase,Table 2,1,Opinion Manipulation: Definition and Typologies
+propaganda,propaganda,word,Table 2,1,Class 3
+propaganda detection,propaganda detection,phrase,Table 2,1,Class 3
+pump and dump,pump and dump,phrase,Table 2,1,F5
+reddit,reddit,word,Table 2,1,Class 4
+structural break,structural break,phrase,Table 2,1,F2

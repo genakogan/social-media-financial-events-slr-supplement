@@ -1,0 +1,127 @@
+{
+  "note": "Descriptive breakdown of the records of the final query (count_by_source_type.py, 20 October 2026), as printed. Not part of the protocol; nothing was filtered.",
+  "records": 311556,
+  "by_source_type": [
+    {
+      "type": "journal",
+      "records": 175350
+    },
+    {
+      "type": "repository",
+      "records": 54218
+    },
+    {
+      "type": "unknown",
+      "records": 27451
+    },
+    {
+      "type": "conference",
+      "records": 25301
+    },
+    {
+      "type": "book series",
+      "records": 14660
+    },
+    {
+      "type": "ebook platform",
+      "records": 14576
+    }
+  ],
+  "by_work_type": [
+    {
+      "type": "article",
+      "records": 186387
+    },
+    {
+      "type": "conference-paper",
+      "records": 52341
+    },
+    {
+      "type": "preprint",
+      "records": 34189
+    },
+    {
+      "type": "book-chapter",
+      "records": 19903
+    },
+    {
+      "type": "other",
+      "records": 6429
+    },
+    {
+      "type": "report",
+      "records": 2663
+    },
+    {
+      "type": "book",
+      "records": 2523
+    },
+    {
+      "type": "libguides",
+      "records": 1816
+    },
+    {
+      "type": "review",
+      "records": 1656
+    },
+    {
+      "type": "conference-abstract",
+      "records": 1135
+    },
+    {
+      "type": "book-review",
+      "records": 752
+    },
+    {
+      "type": "reference-entry",
+      "records": 731
+    },
+    {
+      "type": "software",
+      "records": 628
+    },
+    {
+      "type": "supplementary-materials",
+      "records": 214
+    },
+    {
+      "type": "data-paper",
+      "records": 123
+    },
+    {
+      "type": "standard",
+      "records": 38
+    },
+    {
+      "type": "software-paper",
+      "records": 28
+    }
+  ],
+  "studies_by_source_type": {
+    "development": {
+      "journal": 38,
+      "repository": 2,
+      "conference": 1,
+      "ebook platform": 1,
+      "book series": 1,
+      "no source": 1
+    },
+    "validation": {
+      "journal": 32,
+      "not indexed": 2,
+      "no source": 2,
+      "repository": 2
+    },
+    "validation_retrieved": {
+      "journal": 25,
+      "no source": 2,
+      "repository": 2
+    }
+  },
+  "validation_retrieved_not_in_journal": {
+    "cui2025toward": "no source",
+    "huang2025hybrid": "no source",
+    "fan2024measuring": "repository",
+    "goldsmith2025causal": "repository"
+  }
+}

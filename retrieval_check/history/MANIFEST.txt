@@ -1,0 +1,14 @@
+Validated verification search - files fixed before any OpenAlex count was retrieved
+written 2026-10-19T15:24:50
+(PROTOCOL.md updated: script names in the section headings corrected and section 6 added; no rule changed)
+
+ce135654d72ec93ad2e1666af9bded7511bb94889879f833300093a33e1f3b8f  PROTOCOL.md
+d837698740b8ef4c79763292566f5bc8d285549d6f271cdde24e6672a47af343  split_corpus.py
+0ecfd5f097f1f95ea102b1f7dcc61480a214526a512e26bdd18c19ebf3bb0f46  split.csv
+62333937888f778cbfb5d9ac9b74a7f0b0cbf10fc33ce4c730af51ea55e2985e  derive_terms.py
+baa67c4fb36d8838e0a40fa8f3c714bc9b8da00bbad874f5b9d5b7e0162ea130  candidates.csv
+f7e702461a3aa5937c322e146ceea7bbbfde1c7794212dd397ce962970521b16  run_validation.py
+d5d8de0c8a7d81177dcd3c62a76ff2b60f64a9cadb1ba4447188f3a8570d9f68  verify_corpus.py
+
+updated 2026-10-20T12:23:14 (PROTOCOL.md = history/PROTOCOL_v1.md: background paragraph before Section 1 removed for publication; no rule changed)
+2372e2d8f1429419c9fba4c4605bc2b4b2c7b57a2aa223ea3685d87381d240bd  PROTOCOL.md

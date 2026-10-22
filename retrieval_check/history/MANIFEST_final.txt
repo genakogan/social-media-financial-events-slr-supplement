@@ -1,0 +1,10 @@
+Known-item retrieval check - final query: files fixed before the run
+written 2026-10-20T10:59:21
+
+3922d7d49f974f638215b3b0e25797fc6d34cfc5bedbb82b8d91f0a7a7ccd50b  PROTOCOL.md
+002d68ca36b14e7f8cf16fa129a791645ffee3da4cfd832e23dca0345b4dc2ef  run_final.py
+f7e702461a3aa5937c322e146ceea7bbbfde1c7794212dd397ce962970521b16  run_validation.py
+d5d8de0c8a7d81177dcd3c62a76ff2b60f64a9cadb1ba4447188f3a8570d9f68  verify_corpus.py
+0ecfd5f097f1f95ea102b1f7dcc61480a214526a512e26bdd18c19ebf3bb0f46  split.csv
+a5760bfe441e48cf46b599aa465cb72123c00931b7da5aad69a81b6664705958  corpus_ids.csv
+51377ba9737a1b12a8a0b8878bb0c5a27f32e47ad78dd6255a59cf54fb06a7f6  run_output/query_validation.txt
